@@ -17,7 +17,7 @@ This is a nationwide survey conducted by the University of Chicago for the Assoc
 > 
 >https://data.census.gov/cedsci/table?q=All%20Congressional%20Districts%20for%20116th%20Congress%20in%20United%20States&tid=ACSDP5Y2018.DP05&hidePreview=false
 
-This table contains 116th congress demographic information for congressional districts inand from the US Census Bureau. 
+This table contains 116th congress demographic information for congressional districts from the US Census Bureau. 
 
 
 > My Congressional District
