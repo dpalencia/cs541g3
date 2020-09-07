@@ -22,6 +22,6 @@ This table contains 116th congress demographic information for congressional dis
 
 > My Congressional District
 > 
-> https://www.census.gov/
+> https://www.census.gov/mycd/
 
-This online tool allows us to download and view demographic data for individual congressional distruct.
+This online tool allows us to download and view demographic data for individual congressional district.
