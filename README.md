@@ -1,6 +1,6 @@
 # CS 541 Data Mining - Group 3
 
-## Political Leanings and Demographic Analysis
+## Quantifying and Predicting Gerrymandering
 This project will aim to apply various gerrymandering metrics, compare them, and make predictions based on district demographics to shed light on the issue of gerrymandering in the US.
 
 ## Datasets and Resources
