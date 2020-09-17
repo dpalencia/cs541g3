@@ -1,8 +1,7 @@
 # CS 541 Data Mining - Group 3
 
-## Political Leanings and Demographic Analysis
-This project will aim to determine how over or underrepresented different segments of the population are from analyzing census and polling data.
-
+## Quantifying and Predicting Gerrymandering
+This project will aim to apply various gerrymandering metrics, compare them, and make predictions based on district demographics to shed light on the issue of gerrymandering in the US.
 
 ## Datasets and Resources
 The data we consider are as follows.
@@ -25,3 +24,9 @@ This table contains 116th congress demographic information for congressional dis
 > https://www.census.gov/mycd/
 
 This online tool allows us to download and view demographic data for individual congressional district.
+
+> U.S. House 1976–2018 
+> MIT Election Data and Science Lab, 2017
+> https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IG0UN2
+
+This data contains vote counts for US House of Representatives elections between 1976 and 2018.
