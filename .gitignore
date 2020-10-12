@@ -19,3 +19,4 @@ ipython_config.py
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 
 /datasets
+Notebooks/Data Understanding/1976-2018-house2.csv
